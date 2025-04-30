@@ -1,2 +1,2 @@
 # MyGames
-All of the games that I have made
+A showcase of games that I have made, most are complete.
